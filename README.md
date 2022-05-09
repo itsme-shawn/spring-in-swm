@@ -16,19 +16,28 @@
 
 [![Video Label](https://img.youtube.com/vi/mIlV7oxv8hI/0.jpg)](https://youtu.be/mIlV7oxv8hI)
 
-###
+### 홈 화면
 
-<img width="1500" alt="React App 2022-05-09 19-36-23" src="https://user-images.githubusercontent.com/48885608/167397035-e18db9f5-5fa3-4fee-9174-8d5288f7efd1.png">
-<img width="2032" alt="React App 2022-05-09 19-36-48" src="https://user-images.githubusercontent.com/48885608/167397062-03c764cd-608d-454a-bacd-99545452fb11.png">
-<img width="2032" alt="React App 2022-05-09 19-36-52" src="https://user-images.githubusercontent.com/48885608/167397064-aa078814-6ffe-4e3b-8c86-9b38a6c521e2.png">
-<img width="2032" alt="React App 2022-05-09 19-37-00" src="https://user-images.githubusercontent.com/48885608/167397069-5b833ac5-ab07-45c3-b5db-0fe5c12e8db6.png">
-<img width="2032" alt="React App 2022-05-09 19-38-28" src="https://user-images.githubusercontent.com/48885608/167397071-65043544-63e7-421b-958e-6bc942ee9959.png">
-<img width="2032" alt="React App 2022-05-09 19-38-42" src="https://user-images.githubusercontent.com/48885608/167397074-da7965cd-6d29-483f-aa48-bc886f6c6a41.png">
+<img width="1200" alt="React App 2022-05-09 19-36-23" src="https://user-images.githubusercontent.com/48885608/167397035-e18db9f5-5fa3-4fee-9174-8d5288f7efd1.png">
+<img width="1200" alt="React App 2022-05-09 19-36-48" src="https://user-images.githubusercontent.com/48885608/167397062-03c764cd-608d-454a-bacd-99545452fb11.png">
+<img width="1200" alt="React App 2022-05-09 19-36-52" src="https://user-images.githubusercontent.com/48885608/167397064-aa078814-6ffe-4e3b-8c86-9b38a6c521e2.png">
 
-### Team Members
+### 프로필
 
-민향숙 : 홈 화면
-박정재 : 프로필 상세화면, 시연영상 제작
-이영석 : 아이디어 제공, 초기 아키텍쳐 구축, 롤링페이퍼 화면 개발
-이주원 : 쪽지 보내기
+<img width="1200" alt="React App 2022-05-09 19-37-00" src="https://user-images.githubusercontent.com/48885608/167397069-5b833ac5-ab07-45c3-b5db-0fe5c12e8db6.png">
+
+### 쪽지함
+
+<img width="1200" alt="React App 2022-05-09 19-38-28" src="https://user-images.githubusercontent.com/48885608/167397071-65043544-63e7-421b-958e-6bc942ee9959.png">
+
+### 프로필 상세 및 쪽지 보내기
+
+<img width="1200" alt="React App 2022-05-09 19-38-42" src="https://user-images.githubusercontent.com/48885608/167397074-da7965cd-6d29-483f-aa48-bc886f6c6a41.png">
+
+## Team Members
+
+민향숙 : 홈 화면  
+박정재 : 프로필 상세화면, 시연영상 제작  
+이영석 : 아이디어 제공, 초기 아키텍쳐 구축, 롤링페이퍼 화면 개발  
+이주원 : 쪽지 보내기  
 최현수 : 프로필 화면
